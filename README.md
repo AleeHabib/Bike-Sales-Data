@@ -1,5 +1,3 @@
-# Bike-Sales-Data
-
 # Bike Buyer Analysis Project  
 
 ## Overview  
